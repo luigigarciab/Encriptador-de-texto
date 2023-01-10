@@ -26,9 +26,9 @@ body{
 
 .text{
     position: absolute;
-    width: 577px;
-    height: 640px;
-    left: 240px;
+    width: 664px;
+    height: 260px;
+    left: 140px;
     top: 168px;
     font-family: 'Inter';
     font-style: normal;
@@ -50,8 +50,8 @@ body{
     position: absolute;
     width: 229px;
     height: 18px;
-    left: 240px;
-    top: 851px;
+    left: 140px;
+    top: 530px;
 }
 
 .simbolo-exclamacion{
@@ -85,10 +85,10 @@ body{
     padding: 0px;
     gap: 24px;
     position: absolute;
-    width: 680px;
+    width: 640px;
     height: 67px;
-    left: 240px;
-    top: 885px;
+    left: 140px;
+    top: 560px;
 
 }
 
@@ -170,9 +170,9 @@ body{
 .cuadro{
     position: absolute;
     width: 400px;
-    height: 944px;
-    left: 1000px;
-    top: 40px;
+    height: 620px;
+    left: 880px;
+    top: 20px;
     background: #FFFFFF;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
     border-radius: 32px;
@@ -188,8 +188,8 @@ body{
     position: absolute;
     width: 336px;
     height: 122px;
-    left: 1032px;
-    top: 619px;
+    left: 912px;
+    top: 436px;
 }
 
 .nada{
@@ -204,7 +204,6 @@ body{
     color: #343A40;
     flex: none;
     order: 0;
-    align-self: stretch;
     flex-grow: 0;
 }
 
@@ -228,16 +227,16 @@ body{
     position: absolute;
     width: 336px;
     height: 304px;
-    left: 1032px;
-    top: 283px;
+    left: 912px;
+    top: 100px;
 }
 
 .mostrar-contenido{
     position: absolute;
     width: 336px;
-    height: 781px;
-    left: 1032px;
-    top: 72px;
+    height: 71px;
+    left: 912px;
+    top: 52px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -256,8 +255,8 @@ body{
     position: absolute;
     width: 336px;
     height: 67px;
-    left: 1032px;
-    top: 885px;
+    left: 912px;
+    top: 560px;
     border: 1px solid #0A3871;
     border-radius: 24px;
     transition: 0.3s all;
