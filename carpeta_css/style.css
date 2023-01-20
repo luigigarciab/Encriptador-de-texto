@@ -284,7 +284,7 @@ body{
         position: absolute;
         width: 339px;
         height: 280px;
-        left: 16px;
+        left: 24px;
         top: 152px;
         font-weight: 400;
         font-size: 32px;
@@ -300,7 +300,7 @@ body{
         position: absolute;
         width: 229px;
         height: 18px;
-        left: 16px;
+        left: 24px;
         top: 451px;
     }
     .botones{
@@ -313,7 +313,7 @@ body{
         position: absolute;
         width: 343px;
         height: 158px;
-        left: 16px;
+        left: 24px;
         top: 485px;
     }
 
@@ -343,7 +343,7 @@ body{
         position: absolute;
         width: 279px;
         height: 186px;
-        left: 16px;
+        left: 24px;
         top: 680px;
 
     }
@@ -355,7 +355,7 @@ body{
         order: 0;
         align-self: stretch;
         flex-grow: 0;
-        left: 16px;
+        left: 24px;
         top: 740px;
     }
 
@@ -372,7 +372,7 @@ body{
         position: absolute;
         width: 279px;
         height: 595px;
-        left: 16px;
+        left: 24px;
         top: 680px;
     }
 
@@ -399,7 +399,7 @@ body{
 
         width: 343px;
         height: 67px;
-        left: 16px;
+        left: 24px;
         top: 1360px;
 
         border-radius: 24px;
